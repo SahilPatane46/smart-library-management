@@ -30,7 +30,7 @@ A console-based Java application to manage books, users, and lending operations.
 
 ## 🧱 Project Structure
 
-com.smartlibrary
+<pre>com.smartlibrary
 │
 ├── Main.java
 ├── model/
@@ -47,7 +47,9 @@ com.smartlibrary
 │ ├── InvalidUserException.java
 └── data/
 ├── books.dat
-├── users.dat
+├── users.dat</pre>
+
+
 
 ## 🧠 Core Java Topics Covered
 
