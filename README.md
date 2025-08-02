@@ -52,6 +52,9 @@ com.smartlibrary
 
 ---
 
+
+---
+
 ## 🧠 Core Java Topics Covered
 
 - ✅ OOP (Inheritance, Polymorphism, Abstraction, Encapsulation)
@@ -65,48 +68,35 @@ com.smartlibrary
 
 ---
 
-🖥️ How to Run
-Clone the repository
-Open your terminal and run:
+## 🖥️ How to Run
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/smart-library-management.git
-Navigate into the project directory
+1. **Clone the repo**
+   git clone https://github.com/your-username/smart-library-management.git
+2. **Compile and run**
+   cd src
+   javac com/smartlibrary/Main.java
+   java com.smartlibrary.Main
+   
+## 💡 Make sure to have JDK 8+ installed.
 
-bash
-Copy
-Edit
-cd smart-library-management
-Compile the project
-Make sure you're inside the src folder (or wherever your .java files are located):
+---
 
-bash
-Copy
-Edit
-javac com/smartlibrary/Main.java
-Run the application
-
-bash
-Copy
-Edit
-java com.smartlibrary.Main
-✅ Ensure that Java JDK 8 or above is installed and your environment variables are set.
-
-
-📦 Future Enhancements
+## 📦 Future Enhancements
 
 - GUI using JavaFX or Swing
 - Cloud database integration (MySQL/PostgreSQL)
 - Export reports as CSV or PDF
 - Mobile version with Flutter or Android
 
-🙌 Contributing
+---
+
+## 🙌 Contributing
 
 Feel free to fork this repo and suggest new features or enhancements via pull requests.
 
-🙋‍♂️ Author
+---
+
+## 🙋‍♂️ Author
 Sahil Patane
 📧 patanesahil@gmail.com
 🔗 LinkedIn - https://www.linkedin.com/in/sahil-patane-b58005314/
