@@ -70,8 +70,8 @@ com.smartlibrary
 1. **Clone the repo**
 ```bash
 git clone https://github.com/your-username/smart-library-management.git
-
-2. **Compile & Run**
+2. **Clone the repo**
+```bash
 cd src
 javac com/smartlibrary/Main.java
 java com.smartlibrary.Main
