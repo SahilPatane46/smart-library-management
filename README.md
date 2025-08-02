@@ -65,18 +65,35 @@ com.smartlibrary
 
 ---
 
-## 🖥️ How to Run
+🖥️ How to Run
+Clone the repository
+Open your terminal and run:
 
-1. **Clone the repo**
-```bash
+bash
+Copy
+Edit
 git clone https://github.com/your-username/smart-library-management.git
-2. **Clone the repo**
-```bash
-cd src
-javac com/smartlibrary/Main.java
-java com.smartlibrary.Main
+Navigate into the project directory
 
-💡 Make sure to have JDK 8+ installed.
+bash
+Copy
+Edit
+cd smart-library-management
+Compile the project
+Make sure you're inside the src folder (or wherever your .java files are located):
+
+bash
+Copy
+Edit
+javac com/smartlibrary/Main.java
+Run the application
+
+bash
+Copy
+Edit
+java com.smartlibrary.Main
+✅ Ensure that Java JDK 8 or above is installed and your environment variables are set.
+
 
 📦 Future Enhancements
 
