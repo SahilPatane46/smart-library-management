@@ -49,12 +49,6 @@ com.smartlibrary
 ├── books.dat
 ├── users.dat
 
-
----
-
-
----
-
 ## 🧠 Core Java Topics Covered
 
 - ✅ OOP (Inheritance, Polymorphism, Abstraction, Encapsulation)
